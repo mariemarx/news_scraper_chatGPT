@@ -1,0 +1,23 @@
+/////////SAMPLE CHATGPT OUTPUT/////////
+Received response:  {
+  index: 0,
+  message: {
+    role: 'assistant',
+    content: 'The Korean TV shows and movies mentioned the most in the past month in the news are:\n' +
+      '\n' +
+      '1. Squid Game\n' +
+      '2. Hellbound\n' +
+      '3. Sweet Home\n' +
+      '4. Singles Inferno\n' +
+      '5. Physical 100\n' +
+      '6. Zombieverse\n' +
+      '7. My Name is Loh Kiwan\n' +
+      '8. Exhuma\n' +
+      '9. The Great Flood\n' +
+      '\n' +
+      "These shows and movies were featured in articles from various sources like The Hollywood Reporter, Variety, and What's on Netflix, among others."
+  },
+  logprobs: null,
+  finish_reason: 'stop'
+}
+GET /api/qa 200 2126.704 ms - 515
