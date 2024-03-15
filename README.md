@@ -8,7 +8,8 @@ HOW TO RUN
 **'Authorization': 'INSERT KEY'**
 
 2. Before you run the program, there are a few things that can be cutomized:
-    //a. **scripts/news.py**
+
+   //a. **scripts/news.py**
     You can customize the url, where the program will scrape news, the number of pages
     of news to scrape, as well as the max number of days ago the articles have been published. 
     
@@ -20,8 +21,8 @@ HOW TO RUN
     //b. **routes/api.js**
     You can customize the promt with which chatGPT will analyze the news. It is currently set to 'Which Korean TV shows and movies were mentioned the most in the past month in the news?'
 
-3. In terminal, go to the project directory and type in "node app.js". It should print out "Server is running on port 3000".
+4. In terminal, go to the project directory and type in "node app.js". It should print out "Server is running on port 3000".
 
-4. In the browser, go to the page: http://http://localhost:3000 and press "Get News". The output will be in the textbox.
+5. In the browser, go to the page: http://http://localhost:3000 and press "Get News". The output will be in the textbox.
 
-5. The data folder has sample output.
+6. The data folder has sample output.
