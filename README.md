@@ -23,6 +23,6 @@ HOW TO RUN
 
 4. In terminal, go to the project directory and type in "node app.js". It should print out "Server is running on port 3000".
 
-5. In the browser, go to the page: http://http://localhost:3000 and press "Get News". The output will be in the textbox.
+5. In the browser, go to the page: http://localhost:3000 and press "Get News". The output will be in the textbox.
 
 6. The data folder has sample output.
